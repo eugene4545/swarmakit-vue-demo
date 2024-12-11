@@ -1,0 +1,13 @@
+diff --git a/node_modules/@swarmakit/vue/src/index.js b/node_modules/@swarmakit/vue/src/index.js
+new file mode 100644
+index 0000000..aa412b0
+--- /dev/null
++++ b/node_modules/@swarmakit/vue/src/index.js
+@@ -0,0 +1,7 @@
++import Avatar from './components/Avatar/Avatar.vue';
++import ProgressBar from './components/ProgressBar/ProgressBar.vue';
++import Carousel from './components/Carousel/Carousel.vue';
++import Button from './components/Button/Button.vue';
++
++export { Avatar, ProgressBar, Carousel, Button };
++
