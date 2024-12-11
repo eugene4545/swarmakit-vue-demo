@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
-    "postinstall": "patch-package && node scripts/fix-swarmakit-vue-package-json.js"
+    "postinstall": "patch-package && node scripts/fix-swarmakit-vue-package-json.cjs"
   },
   "dependencies": {
     "@swarmakit/vue": "^0.0.8",
