@@ -10,4 +10,5 @@ This project is a demo and demonstrates my ability to integrate third-party UI l
 
 ## Challenges Faced
 1.Component Imports
+![Error Page Screenshot](images/Screenshot (1340).png)
 
