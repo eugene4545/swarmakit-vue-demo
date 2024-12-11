@@ -1,5 +1,5 @@
 <script setup>
-import { Avatar, ProgressBar, Carousel, ChatBubble } from "@swarmakit/vue"; // I created custom index.js in the node_modules to expose the swarmakit/vue components for cleaner imports
+import { Avatar, ProgressBar, Carousel } from "@swarmakit/vue"; // I created custom index.js in the node_modules to expose the swarmakit/vue components for cleaner imports
 import './Profile.css'
 
 const carouselSlides = [
