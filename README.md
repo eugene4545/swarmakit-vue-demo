@@ -29,7 +29,7 @@ Component Imports
 }
 
 ```
-3.Created a file named setup-swarmakit.js in the root directory with the following content:
+3.Created a file named `fix-swarmakit-vue-package-json.cjs` in the root directory under the `scripts` folder with the following content:
 
  ```javascript
 const fs = require('fs');
