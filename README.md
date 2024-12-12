@@ -9,7 +9,7 @@ This project is a dynamic profile page built using Vue 3 and Swarmauri's UI comp
 This project is a demo and demonstrates my ability to integrate third-party UI libraries, style components effectively, and troubleshoot challenges during implementation.
 
 ## Challenges Faced
-1.Component Imports
+Component Imports
 
 ![Error page](public/images/Screenshot%20(1340).png)
 
